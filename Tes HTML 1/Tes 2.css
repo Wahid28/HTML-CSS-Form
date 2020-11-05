@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(o-FARM-facebook.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 32pt;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
+    margin-bottom: -1%;
+}
+
+.login{
+    text-align: center;
+    margin-left: 35%;
+}
+.text1{
+    text-align: center;
+    overflow: hidden;
+    padding: 8px;
+}
+
+.text1{
+    width: auto;
+    overflow: hidden;
+    font-size: 20pt;
+    padding: 8pt;
+    margin: 8px;
+    border-bottom:1px solid black ;
+    margin-left: 50%;
+    margin-right: 8%;
+}
+
+.text1 input{
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.tombol{
+    text-align: center;
+    margin-top: 0%;
+}
+
+fieldset{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    background-image: url(Untitled-2.png);
+}
+
+.fb{
+    text-align: center;;
+}
+
+.gmail{
+    text-align: center;
+}
+
+.twitter{
+    text-align: center;
+}

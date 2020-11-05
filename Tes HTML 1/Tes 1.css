@@ -1,0 +1,35 @@
+*{
+    margin-top: 20px;
+    margin-left: 50pt;
+    margin-right: 50pt;
+    padding: 0;
+    outline: 0;
+}
+
+legend{
+    text-align: center;
+}
+
+body{
+    height: auto;
+    width: auto;
+    background-position: left;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-position: ;
+    background-image: url(https://instagram.fsub4-1.fna.fbcdn.net/v/t51.2885-15/e35/87691781_136968887700960_1788838498634560583_n.jpg?_nc_ht=instagram.fsub4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=P9ovszCbY5sAX92M7f-&_nc_tp=18&oh=0d281890691b6b8fdcc55ea8e923822a&oe=5FBAA1FF) ;
+}   
+h1{
+    font-size: 30dp;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
